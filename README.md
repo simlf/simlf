@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there  👋,
 
 <!--
 **simlf/simlf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning cybersecurity and C Programming.
+- 💬 I come from a webdev background (I was a freelance webdev before) but know I want to learn CS at a low-level to understand more things.
+
+- 📫 How to reach me: you can check my [Notion page](http://simonlefourn.com) to have more informations.
+
+<img align="left" alt="Simlf's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=simlf&theme=radical&show_icons=true&hide_border=true&count_private=true" />
