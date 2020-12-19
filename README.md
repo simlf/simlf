@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning cybersecurity and C Programming.
-- 💬 I come from a webdev background (I was a freelance webdev before) but know I want to learn CS at a low-level to understand more things.
+- 🌱 I’m currently learning C Programming and playing around with cybersecurity.
+- 💬 I come from a webdev background but now I want to learn CS at a low-level to understand more things.
 
 - 📫 How to reach me: you can check my [Notion page](http://simonlefourn.com) to have more informations.
 
