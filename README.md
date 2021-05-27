@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: you can check my [Notion page](http://simonlefourn.com) to have more informations.
 
-<img align="left" target="_blank" alt="Simlf's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=simlf&theme=radical&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" target="_blank" alt="Simlf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=simlf&theme=radical&show_icons=true&hide_border=true&count_private=true" />
