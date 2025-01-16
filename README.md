@@ -1,23 +1,13 @@
-### Hello there  👋,
+I’m a *software engineer* exploring the intersection of tech, automation, and decentralization.
 
-<!--
-**simlf/simlf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**💡 What I’m into:**
 
-Here are some ideas to get you started:
+-  Building **automated workflows** that feel like magic.
+- Exploring the possibilities of **smart contracts** and **decentralized apps** (dApps).
+- Experimenting with tools that make development more **fun** and **efficient**.
+ 
+**📫 Curious?**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Check my [website](https://simlf.notion.site/portfolio)
 
-- 🌱 I’m currently learning C Programming and playing around with cybersecurity.
-- 💬 I come from a webdev background but now I want to learn CS at a low-level to understand more things.
-
-- 📫 How to reach me: you can check my [Notion page](http://simonlefourn.com) to have more informations.
-
-<img align="left" target="_blank" alt="Simlf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=simlf&theme=radical&show_icons=true&hide_border=true&count_private=true" />
+	
